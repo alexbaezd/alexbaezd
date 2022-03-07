@@ -3,10 +3,8 @@
 
 I’m a Front End Developer 
 
-
-- 🔭 I'm currently job search.
-
-- 🌱 I’m currently learning Testing for React Projects 
+- 🔭 I’m currently working on a personal project called visual timer
+- 🌱 I’m currently learning English  
 
 - 📫 How to reach me: 
   - [![WebSite](https://img.shields.io/badge/alexbaez.dev-ED6663?&style=for-the-badge)](https://alexbaez.dev)
